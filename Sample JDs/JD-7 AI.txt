@@ -1,0 +1,2 @@
+7. AI Research Engineer
+We are looking for an AI Research Engineer passionate about deep learning, NLP, and reinforcement learning. The role includes designing novel algorithms, publishing research papers, and collaborating with product teams to bring AI solutions to production. Expertise in transformer models, large language models, and distributed training is highly preferred.

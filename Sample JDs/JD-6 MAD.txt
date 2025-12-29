@@ -1,0 +1,2 @@
+6. Mobile Application Developer – iOS/Android
+Looking for a Mobile App Developer experienced in Swift (iOS) or Kotlin (Android). The role involves building mobile-first applications, ensuring app security, and integrating APIs. Familiarity with Flutter or React Native for cross-platform development will be an added benefit. Candidate must ensure seamless user experience across devices.

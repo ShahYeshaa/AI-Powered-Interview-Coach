@@ -1,0 +1,2 @@
+4. Full Stack Web Developer
+Hiring a Full Stack Developer with experience in React, Node.js, MongoDB, and Express. Candidate will be responsible for building responsive web applications, integrating REST APIs, and ensuring performance optimization. Understanding of CI/CD pipelines, Docker, and responsive design principles is an advantage.

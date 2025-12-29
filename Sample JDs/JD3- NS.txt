@@ -1,0 +1,2 @@
+3. Network Security Engineer
+We require a Network Security Engineer to monitor, secure, and troubleshoot enterprise-level networks. Responsibilities include setting up firewalls, IDS/IPS, VPNs, and conducting penetration testing. Knowledge of SIEM tools and certifications like CISSP/CEH are preferred. Candidate must stay updated on the latest cybersecurity threats and compliance standards.

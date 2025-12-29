@@ -1,0 +1,2 @@
+5. Cloud Solutions Architect
+Seeking a Cloud Solutions Architect to design and implement cloud-native solutions. Candidate should have deep expertise in AWS, Azure, or GCP, along with knowledge of serverless computing, Kubernetes, and cloud security best practices. Strong communication skills are needed for client interactions and solution presentations.

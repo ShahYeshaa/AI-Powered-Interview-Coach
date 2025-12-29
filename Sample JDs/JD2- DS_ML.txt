@@ -1,0 +1,2 @@
+2. Data Scientist – Machine Learning
+Looking for a Data Scientist skilled in data preprocessing, statistical modeling, and ML algorithms. Responsibilities include building predictive models, performing A/B testing, and deploying ML pipelines. Proficiency in Python, TensorFlow/PyTorch, and SQL is mandatory. Strong analytical skills and domain knowledge in finance or healthcare are desirable.

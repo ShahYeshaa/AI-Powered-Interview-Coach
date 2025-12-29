@@ -1,0 +1,2 @@
+1. Software Developer – Backend Engineering
+We are seeking a Backend Software Developer proficient in Python, Django, and RESTful APIs. The candidate will be responsible for designing scalable server-side applications, optimizing database queries, and integrating third-party services. Knowledge of cloud platforms (AWS/Azure) and version control (Git) is required. Previous experience with microservices architecture is a plus.
