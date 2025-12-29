@@ -58,8 +58,8 @@ It assists users in aligning their resumes with job descriptions and improving i
 
 ### 1️⃣ Create Virtual Environment
 In anaconda prompt run : 
-conda create -n interview_coach python=3.10
-conda activate interview_coach
-pip install -r requirements.txt
-set GEMINI_API_KEY=your_api_key_here
-streamlit run app.py
+- conda create -n interview_coach python=3.10
+- conda activate interview_coach
+- pip install -r requirements.txt
+- set GEMINI_API_KEY=your_api_key_here
+- streamlit run app.py
